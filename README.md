@@ -9,5 +9,5 @@
 
 Fun fact:
 - I’m the oldest of my siblings.
-- I took a gap year overseas in 2024.
 - I surprisingly like the smell of E. coli.
+- Burn is the best Energi drink of them all. 
