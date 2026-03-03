@@ -5,7 +5,7 @@
 
 - 🌱 I'm Naima. I started coding full-time in 2025, but I’ve been interested in it since 2021.
 - ⚡ So far, I’ve mainly worked on school projects — some of my favorites are pinned below.
-- 🔭 My main tools are Figma, HTML, CSS (vanilla), and JavaScript. I’m continuously learning and working to advance my skills.
+- 🔭 My main tools are Figma, HTML, CSS, and JavaScript. I’m continuously learning and working to advance my skills.
 
 Fun fact:
 - I’m the oldest of my siblings.
